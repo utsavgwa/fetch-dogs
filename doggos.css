@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+.title-doggo{
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.dog-list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: space-evenly;
+}
+
+.add-doggo{
+  border: 3px solid #aaa;
+  background-color: #eee;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  margin-right: 10px;
+  border-radius: 5px;
+  font-size: 30px;
+}
