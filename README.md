@@ -6,11 +6,12 @@ The images are being retrieved via API - "https​&#65279;://dog.ceo/api/breeds/
 
 ## Live Preview
 
-Site is live at [***Dog Photos***](https://utsavsingh.me/fetch-dogs/), go and check it out!
+Site is live at [***Dog Photos***](https://utsavgwa.github.io/fetch-dogs/), go and check it out!
 See how it works.
 
 URL for website is --
-https://utsavsingh.me/fetch-dogs/
-
+```
+https://utsavgwa.github.io/fetch-dogs/
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
